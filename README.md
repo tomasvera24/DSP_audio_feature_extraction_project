@@ -11,7 +11,7 @@ For 2 examples from each genre, we computed and plotted the audio signal wavefor
 
 Part 2 
 
-Next, we analyzed the signals to obtain summary statistics that highlight differences between the music genres using block-based analysis. We use block_based analysis to computer extract short-time (local) features, and then summarize these local short-time features with a summary statistic (mean, standard deviation)
+Next, we analyzed the signals to obtain summary statistics that highlight differences between the music genres using block-based analysis. We used block based analysis to extract short-time (local) features, and compute a summary statistic of each feature (mean, standard deviation)
 
 
 Project datafiles provided by Yon Visell
